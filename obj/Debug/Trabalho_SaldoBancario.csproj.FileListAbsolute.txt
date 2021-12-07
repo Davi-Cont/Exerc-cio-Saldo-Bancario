@@ -1,0 +1,7 @@
+C:\Users\DDD\Desktop\Trabalho_SaldoBancario\bin\Debug\Trabalho_SaldoBancario.exe.config
+C:\Users\DDD\Desktop\Trabalho_SaldoBancario\bin\Debug\Trabalho_SaldoBancario.exe
+C:\Users\DDD\Desktop\Trabalho_SaldoBancario\bin\Debug\Trabalho_SaldoBancario.pdb
+C:\Users\DDD\Desktop\Trabalho_SaldoBancario\obj\Debug\Trabalho_SaldoBancario.csproj.AssemblyReference.cache
+C:\Users\DDD\Desktop\Trabalho_SaldoBancario\obj\Debug\Trabalho_SaldoBancario.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Desktop\Trabalho_SaldoBancario\obj\Debug\Trabalho_SaldoBancario.exe
+C:\Users\DDD\Desktop\Trabalho_SaldoBancario\obj\Debug\Trabalho_SaldoBancario.pdb
